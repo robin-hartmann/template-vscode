@@ -33,7 +33,7 @@ These instructions will get you a copy of this project up and running on your lo
 
 ### 📋 Prerequisites
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications
 
 ### 🚀 Getting Started
 
