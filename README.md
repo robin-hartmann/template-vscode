@@ -8,6 +8,7 @@ Template for creating projects with Visual Studio Code
 
 - Settings for Visual Studio Code
 - README template with Emojis 🤩
+- `.gitattributes` for normalizing line endings to `lf`
 
 ## 💡 [Examples](docs/examples.md)
 
