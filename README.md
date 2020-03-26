@@ -24,7 +24,7 @@ These instructions will get you a release of this project up and running on your
 
 ### 🚀 Getting Started
 
-Just copy all files contained in this repository to whereever you need them.
+Just copy all files contained in this repository to wherever you need them.
 
 ## 📘 [Documentation](docs/docs.md)
 
