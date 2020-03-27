@@ -12,8 +12,5 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "files.eol": "\n",
-  "[markdown]": {
-    "editor.tabSize": 4
-  }
+  "files.eol": "\n"
 }
